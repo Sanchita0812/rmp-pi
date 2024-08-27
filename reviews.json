@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Prof1",
+        "review": "Great professor who explains concepts very clearly and is always available for extra help.",
+        "subject": "Math",
+        "stars": 5
+      },
+      {
+        "professor": "Prof2",
+        "review": "Knowledgeable but can be a bit unorganized in lectures. Overall, a good experience.",
+        "subject": "Physics",
+        "stars": 4
+      },
+      {
+        "professor": "Prof3",
+        "review": "Very tough grader, but you will learn a lot if you put in the effort.",
+        "subject": "Computer Science",
+        "stars": 3
+      },
+      {
+        "professor": "Prof4",
+        "review": "Engaging and interactive classes. Always encourages student participation.",
+        "subject": "Literature",
+        "stars": 5
+      },
+      {
+        "professor": "Prof5",
+        "review": "The professor is knowledgeable but the lectures can be dry. Would recommend for independent learners.",
+        "subject": "Chemistry",
+        "stars": 3
+      },
+      {
+        "professor": "Prof6",
+        "review": "Very friendly and approachable, but sometimes the lectures lack depth.",
+        "subject": "Biology",
+        "stars": 4
+      },
+      {
+        "professor": "Prof7",
+        "review": "Excellent at breaking down complex topics. Exams are tough but fair.",
+        "subject": "Economics",
+        "stars": 4
+      },
+      {
+        "professor": "Prof8",
+        "review": "Incredible enthusiasm and passion for the subject. Assignments are challenging but rewarding.",
+        "subject": "History",
+        "stars": 5
+      },
+      {
+        "professor": "Prof9",
+        "review": "Doesn't provide much feedback on assignments. The lectures can be monotonous.",
+        "subject": "Sociology",
+        "stars": 2
+      },
+      {
+        "professor": "Prof10",
+        "review": "Very clear and concise in explanations, but sometimes moves too quickly through material.",
+        "subject": "Philosophy",
+        "stars": 4
+      },
+      {
+        "professor": "Prof11",
+        "review": "Great energy in class and really makes the subject matter interesting.",
+        "subject": "Psychology",
+        "stars": 5
+      },
+      {
+        "professor": "Prof12",
+        "review": "The lectures are engaging, but the grading is strict. Be prepared to work hard.",
+        "subject": "Law",
+        "stars": 3
+      },
+      {
+        "professor": "Prof13",
+        "review": "Good professor, but the course materials could be better organized.",
+        "subject": "Political Science",
+        "stars": 3
+      },
+      {
+        "professor": "Prof14",
+        "review": "Always provides real-world examples which makes the class very interesting.",
+        "subject": "Business Administration",
+        "stars": 4
+      },
+      {
+        "professor": "Prof15",
+        "review": "A bit hard to follow at times, but very knowledgeable.",
+        "subject": "Statistics",
+        "stars": 3
+      },
+      {
+        "professor": "Prof16",
+        "review": "Very helpful during office hours, and the lectures are well-structured.",
+        "subject": "Engineering",
+        "stars": 4
+      },
+      {
+        "professor": "Prof17",
+        "review": "Encourages creativity and independent thinking. A great class to take if you're interested in the subject.",
+        "subject": "Art",
+        "stars": 5
+      },
+      {
+        "professor": "Prof18",
+        "review": "Lectures are often confusing, but the professor is approachable for extra help.",
+        "subject": "Environmental Science",
+        "stars": 3
+      },
+      {
+        "professor": "Prof19",
+        "review": "Uses a lot of multimedia in the lectures, which makes learning more engaging.",
+        "subject": "Media Studies",
+        "stars": 4
+      },
+      {
+        "professor": "Prof20",
+        "review": "Challenging exams, but fair. The lectures are very informative.",
+        "subject": "Geography",
+        "stars": 4
+      }
+    ]
+  }
+  
